@@ -512,7 +512,7 @@ export const mockData = {
     {
       "id": "category-1756828402993",
       "icon": "📊",
-      "name": "成就&紫武",
+      "name": "捕鱼人成就",
       "order": 5,
       "sites": [
         {
