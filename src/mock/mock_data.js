@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1756828320709",
-      "icon": "🎵",
+      "icon": "🐟",
       "name": "捕鱼人入门",
       "order": 0,
       "sites": [
@@ -73,7 +73,7 @@ export const mockData = {
     },
     {
       "id": "category-1756828342405",
-      "icon": "🎮",
+      "icon": "✨",
       "name": "钓场之王",
       "order": 1,
       "sites": [
@@ -306,7 +306,7 @@ export const mockData = {
     },
     {
       "id": "category-1756828359759",
-      "icon": "👥",
+      "icon": "🎨",
       "name": "同人",
       "order": 3,
       "sites": [
@@ -604,7 +604,7 @@ export const mockData = {
     },
     {
       "id": "category-1756905193218",
-      "icon": "📁",
+      "icon": "🚀",
       "name": "宇宙探索",
       "order": 0,
       "sites": [
@@ -633,7 +633,7 @@ export const mockData = {
     },
     {
       "id": "category-1756905202762",
-      "icon": "📁",
+      "icon": "🚢",
       "name": "出海垂钓",
       "order": 9,
       "sites": [
@@ -711,7 +711,7 @@ export const mockData = {
     },
     {
       "id": "category-1756905214584",
-      "icon": "📁",
+      "icon": "☁",
       "name": "云冠群岛",
       "order": 10,
       "sites": [
