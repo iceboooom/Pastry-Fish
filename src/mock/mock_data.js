@@ -733,7 +733,7 @@ export const mockData = {
     },
     {
       "id": "category-1756905214584",
-      "icon": "☁☁☁",
+      "icon": "☁",
       "name": "云冠群岛",
       "order": 10,
       "sites": [
